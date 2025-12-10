@@ -2,16 +2,16 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/website?url=https://devddine.github.io/Prodigy-Manager)](https://devddine.github.io/Prodigy-Manager)
-[![GitHub Issues](https://img.shields.io/github/issues/devddine/Prodigy-Manager.svg)](https://github.com/devddine/prodigy-json-server/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/devddine/Prodigy-Manager.svg)](https://github.com/devddine/prodigy-json-server/pulls)
+[![Status](https://img.shields.io/website?url=https://dredyne.github.io/Prodigy-Manager)](https://dredyne.github.io/Prodigy-Manager)
+[![GitHub Issues](https://img.shields.io/github/issues/dredyne/Prodigy-Manager.svg)](https://github.com/dredyne/prodigy-json-server/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/dredyne/Prodigy-Manager.svg)](https://github.com/dredyne/prodigy-json-server/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
 ---
 
-<p align="center"> 🌱 This repository provides a fake JSON server based on the <a href="https://github.com/typicode/json-server">json-server</a> package. It is used to simulate a product management API for testing purposes with the <b><a href="https://github.com/devddine/Prodigy-Manager">Prodigy Manager application</a></b>.
+<p align="center"> 🌱 This repository provides a fake JSON server based on the <a href="https://github.com/typicode/json-server">json-server</a> package. It is used to simulate a product management API for testing purposes with the <b><a href="https://github.com/dredyne/Prodigy-Manager">Prodigy Manager application</a></b>.
 </p>
 
 ## Table of Contents
@@ -35,7 +35,7 @@
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/devddine/prodigy-json-server.git
+   git clone https://github.com/dredyne/prodigy-json-server.git
    ```
 
 2. Navigate to the project directory:
@@ -69,7 +69,7 @@ Once the server is running, you can:
 
 To use this fake JSON server with Prodigy Manager:
 
-1. Clone the [Prodigy Manager repository](https://github.com/devddine/Prodigy-Manager).
+1. Clone the [Prodigy Manager repository](https://github.com/dredyne/Prodigy-Manager).
 2. Follow the instructions in the Prodigy Manager README to set up the app.
 3. Make sure the Prodigy Manager app points to `http://localhost:3030` for API requests.
 
